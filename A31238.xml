@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A casual discourse about banks: between a brigadier, a lawyer, a merchant, and a goldsmith</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31238</idno>
+            <idno type="STC">Wing C1251</idno>
+            <idno type="STC">ESTC R215102</idno>
+            <idno type="EEBO-CITATION">99827085</idno>
+            <idno type="PROQUEST">99827085</idno>
+            <idno type="VID">31498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31498)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1863:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A casual discourse about banks: between a brigadier, a lawyer, a merchant, and a goldsmith</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:31498:1" rendition="simple:additions"/>
+            <head>A Caſual Diſcourſe about <hi>Banks:</hi> Between a <hi>Brigadier,</hi> a <hi>Lawyer,</hi> a <hi>Merchant,</hi> and a <hi>Goldſmith.</hi>
+            </head>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>VVHat's the Houſe upon, do you know, Gentlemen?</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>When I came out, they were upon private Bills, but will be upon the <hi>New Bank</hi> by and by.</p>
+            </sp>
+            <sp>
+               <speaker>Gold.</speaker>
+               <p>Do you think it will go forward, Sir? and do you think it will do?</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>Aye, I think it will, and that it's better to have two Shops than one.</p>
+            </sp>
+            <sp>
+               <speaker>Gold.</speaker>
+               <p>Yes ſure enough, the more <hi>Banks</hi> the Parliament ſets up, the better; and I hope Sir you will be a Subſcriber to this new one.</p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>But how will the <hi>Bank of England</hi> reliſh this, I pray? I'm ſure <hi>that</hi> has been very ſerviceable to his Majeſties Affairs abroad, and is become the Envy of <hi>France;</hi> and I think one ſuch Bank is better and ſtronger than two can be; and I hear of two no where elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>For my part I am not concern'd in the <hi>Bank of England,</hi> but I confeſs I am concern'd as a good Engliſh-man in the Honour and Juſtice of the Govern<g ref="char:EOLhyphen"/>ment, and I think, at leaſt, I may preſume to ſay (of the <hi>Bank of England</hi>) they are not kindly dealt with. And I cannot now have half the Aſſurance which the <hi>Bank of England</hi> had, that the Parliament will not in a year or two ſet up a third, unleſs there be a Clauſe of reſtriction in this ſecond; which the firſt, if they had not thought it needleſs, might, 'tis like, have had for asking. And had I appre<g ref="char:EOLhyphen"/>hended a ſecond Bank, when I ſubſcribed to the <hi>Bank of England,</hi> I would not have done it for a <hi>premio</hi> of 20 <hi>per Cent,</hi> for I could then have done better.</p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>I proteſt, Sir, for my part, I know little of thoſe matters, but I was, and am ſtill of your Mind.</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>Gentlemen, you are under a great miſtake: this is to be a <hi>National Land Bank,</hi> and quite another thing; or elſe I muſt confeſs the <hi>Bank of England</hi> might ſeem to have ſome cauſe to complain; but they have not yet at all complain'd.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Sir, with Submiſſion, why do you call it a <hi>Land Bank?</hi> is Land to be Subſcribed?</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>No, Sir, We have had a great deal of pudder about that; but I think we are now off it.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Indeed Land to be Subſcrib'd with Money is but a meer Notion, got from thoſe Gentlemen who have not experience enough to ſee into the incoherent conſequences of a Bank ſo fram'd, and therefore cannot be. So then where I pray will be the difference between the preſent <hi>Bank of England</hi> and the intended <hi>Natio<g ref="char:EOLhyphen"/>nal Bank?</hi> Sure if the Nation be the <hi>Engliſh Nation,</hi> then one is the <hi>Engliſh Bank,</hi> and the other the <hi>Bank of England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>Why Faith give me leave to tell you, I thought the very Title of the <hi>Bank of England,</hi> even the word [The] had Implyed that very Bank to be the Only Bank that ever the Government of <hi>England</hi> would ſet up, or ſuffer to be ſet up, otherwiſe than under the Bank of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I was juſt of your mind, and was very well ſatisfyed with that Act and Charter, by which We and our Heirs or Succeſſors were Incorporated and Endow<g ref="char:EOLhyphen"/>ed with Priviledges to laſt for ever, except redeemed at the end of Eleven Years, and therefore I did ſubſcribe. But when I ſaw other Banks ſet up by their own Power and not ſuppreſt by the Government, I very fairly fold off, and took a good price for my ſtock.</p>
+            </sp>
+            <pb n="2" facs="tcp:31498:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>Gold.</speaker>
+               <p>I think if there were no <hi>Bank</hi> at all, it would be better for the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Yes, Sir, perhaps for a Nation of Goldſmiths, and yet not for all them in general neither: for I think it's beyond all Queſtion, that ſolid Reaſon was the firſt foundation of the <hi>Bank,</hi> and we have ſeen nothing written or printed againſt having a Bank, but what contradicts the ſence and experience of the moſt Flouriſh<g ref="char:EOLhyphen"/>ing Governments of <hi>Europe.</hi> And how far hitherto ours has anſwered the ends pro<g ref="char:EOLhyphen"/>poſed, I think needs no demonſtrations. And yet I think thoſe who are for two Banks, are conſequently for none at all; ſeeming rather to chooſe to aſſiſt his Ma<g ref="char:EOLhyphen"/>jeſty againſt a powerful Enemy with a few Pibbles, than with a Rock or Mine of Treaſure, which they know very well is the only Magazin that commands all other. Could we double the Money of the Nation, that indeed were ſomething to our purpoſe: but to multiply our Banks, is diviſion and diſtraction as to all great pur<g ref="char:EOLhyphen"/>poſes.</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>Sir, you ſeem to be very zealous and much concerned for the <hi>Bank of Eng<g ref="char:EOLhyphen"/>land.</hi> Surely if as you ſay, you have now no ſtock there, yet they have ſome way obliged you; for I find other very good Merchants ſay, the Managers ſome of them are very high and ſtately, and much conceited of themſelves too.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>No, Sir, they never obliged me in any thing ſince they were a <hi>Bank:</hi> (and the Directors cannot pleaſe every body.) But it's the Honour and Safety of the Government that I am concerned for. What! was it not the Authority of the whole Government, and the large promiſes of all further Powers, Priviledges, and Capacities, that incouraged them to venture into a project <hi>here</hi> ſo doubtful and unex<g ref="char:EOLhyphen"/>perienced, that it was by ſome repreſented as throwing their Money into a Bot<g ref="char:EOLhyphen"/>tomleſs Pit? And ſhould ſuch perſons who have ſo freely adventured for the ſame Government both their Eſtates and indefatigable Labours too, whoſe Purſes are great but their Examples greater for his Majeſties Service, and who are ſtill able, and for ought I ſee, willing too, to do more than Ever; I ſay what Juſtice or what Policy is there to diſoblige, or to diſcourage ſuch Men? I ſee other Mens Eyes are upon it as well as mine, who have no particular Intereſt there, and now begin to Joque upon them that have.</p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>I cannot believe his Majeſty will be forward to do it, having given al<g ref="char:EOLhyphen"/>ready ſuch a Charter as you ſpeak of. But why do not the preſent <hi>Bank</hi> apply to the Parliament, and (if they can) propoſe to raiſe the ſame Money themſelves on the ſame Terms as intended for another Bank, and then they may perhaps get better Aſſurances for the future? Why do they ſit ſtill? <hi>Volenti non fit Injuria.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Truly in my Judgment they are liker to raiſe the Money upon the Fund propoſed than any new Bank are. But they know beſt their own Buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>Gentlemen, I would fain know how another Bank will hurt the former.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Why, the Advantage of a <hi>Bank</hi> conſiſts in the Flowing Credit of it, and the Credit conſiſts in the Greatneſs, ſafety and profit of the returns, ſo as to ſupport it under any accident that may happen; and if the Cauſe be taken away, or leſſened, the Effect muſt certainly ceaſe. For when that great Buſineſs is divided into halves, it will look little, and be no Honour to the Managers, or to the Nation, and per<g ref="char:EOLhyphen"/>ſons of Subſtance, Skill and Reputation will ſoon withdraw from the Management, and find better buſineſs at home, and then the Bank will ſoon be at an end when once it comes under Inferiour Conduct.</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>Sir, That's a <hi>Bank</hi> managed by Merchants, and will lend no money on Land, for it's a buſineſs out of their way: But this New one will be chiefly ma<g ref="char:EOLhyphen"/>naged by Lawyers, and it's in their way to lend money on Land.</p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>If you Lawyers then have a <hi>Bank</hi> to mannage, you will not need to call in other Councellors to examine the Titles: Nor can it be ſuppoſed you will deny your own Profeſſions, and not accept of Fees for that Inſpection: and if a Man comes to you to Mortgage his Eſtate, he will be ſure to Oblige (if poſſible) a good Opinion of his Title; ſo the Lawyers will get money, whatever the Bank does.</p>
+            </sp>
+            <pb n="3" facs="tcp:31498:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>Sir, I ſuppoſe you cannot fight and maintain your ſelf in a fit Equippage without your pay; and Lawyers muſt live by their Profeſſion as well as others.</p>
+            </sp>
+            <sp>
+               <speaker>Gold.</speaker>
+               <p>O very true, and the Directors will have abundance of Buſineſs, very much to put the money out on good Mortgages, and much more ſometimes to get it in.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Gentlemen, but I am ſtill of Opinion, that there's no need of, nor can it rea<g ref="char:EOLhyphen"/>ſonably be expected, any other <hi>Bank</hi> can be perfected and carryed on with profit as a <hi>Bank,</hi> though the Fund may be very good: for the great charge and hazard of each <hi>Bank</hi> will be the ſame. Wee'll ſuppoſe, Sir, for Example, that ſome mighty Engine were to be turned about with Water, and that Water were but ſcanty; would you then be perſwaded by any little Engineers to divide the Stream? And is any thing of more Importance to us than the <hi>Affairs of his Majeſty,</hi> our own <hi>Safety,</hi> and the <hi>Trade</hi> of <hi>England?</hi> And what is ſcarcer with us then Money? Therefore firſt, let <hi>thoſe</hi> be ſerved with the greateſt and moſt united Vigour, and then let it be diſperſed for other Occaſions of leſſer Importance, and then his Majeſties Exchequer and one great <hi>Bank</hi> will ſerve the whole and do hurt to none. It's not reaſonable to expect, that any Bank can lend much Money upon Land in time of War, when his Majeſties occaſions for our defence and ſafety requires ſo much, and will pay bet<g ref="char:EOLhyphen"/>ter for it: but when God gives us Peace, then there will in Compariſon be little elſe but Land to lend Money upon; and then the more Intire and flouriſhing the Bank, the lower will be Intereſt, and the higher and more Valuable will be Land.</p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>Lawyer, you are in a publick ſtation in the ſervice of your Countrey, and in my judgment nothing can be more worthy of you, than to move in the Houſe, that for fear of a Diſappointment in what you intend, a Clauſe may be put into this new Bill, That in caſe the money do not come in within ſuch a limited time, then the <hi>Bank of England</hi> may have-ſuch liberty and encouragement, as to advance the money on the ſame terms you allow for another Bank, if they can.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I think your Counſel is very good, Sir.—But now my Coach is come to call me, and I muſt take lieve of you.</p>
+            </sp>
+            <sp>
+               <speaker>Brig.</speaker>
+               <p>And ſo muſt I. Gentlemen, I thank you for your Company; and I am ſo much inform'd by the freedom of your Diſcourſe, that I hope I ſhall ſcarce forget any part of it. And this inſight into a matter of this importance, leads me ſtill to be more curious to know more. You will all be here as well as I on <hi>Friday;</hi> I pray let's reſerve a time then for more Diſcourſe on this buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>With all our hearts, Sir, any thing to enjoy ſo good Company.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
